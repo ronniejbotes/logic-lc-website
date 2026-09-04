@@ -1,0 +1,11 @@
+# Working artefacts of the mirror capture - not part of the published site.
+# _raw/ is the untouched capture kept for verification. It is deliberately not
+# committed: it duplicates every page, and shipping it would serve 8 MB of
+# near-duplicate HTML alongside the real site.
+_raw/
+
+# OS / editor noise
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
